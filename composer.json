@@ -1,5 +1,5 @@
 {
-    "name": "boldgrid/wp-help-tags",
+    "name": "boldgrid/wp-help-tabs",
     "description": "A composer package for BoldGrid Help Tabs.",
     "type": "library",
     "license": "GPL-2.0-or-later",
